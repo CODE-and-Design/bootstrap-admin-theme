@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-admin-theme",
+  "version": "1.0.3",
+  "homepage": "https://github.com/CODE-and-Design/bootstrap-admin-theme",
+  "authors": [
+    "Valentin Kirilov <val.kirilov@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
