@@ -225,3 +225,47 @@ ul.alert-dropdown {
 .panel-yellow > a:hover {
     color: #df8a13;
 }
+
+/**
+ * CODE-and-Design Styles
+ */
+
+
+/**
+ * List and table styles
+ */
+.cnd-table-list tr td {
+    padding: 10px !important;
+}
+
+.cnd-table-list tr:hover {
+    background-color: #ededed !important;
+}
+
+.cnd-table-list .cnd-table-td-status {
+    width: 40px;
+}
+
+.cnd-table-list .cnd-table-td-actions {
+    width: 80px;
+    text-align: center;
+    padding: 5px !important;
+}
+
+.cnd-table-list .cnd-table-td-actions a {
+    padding: 5px 8px !important;
+    display: block;
+    float: left;
+}
+
+/**
+ * Massage bag styles
+ */
+
+.cnd-messages-bag {
+
+}
+
+.cnd-messages-bag h3 {
+    margin: 0px;
+}
