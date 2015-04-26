@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-admin-theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/CODE-and-Design/bootstrap-admin-theme",
   "authors": [
     "Valentin Kirilov <val.kirilov@gmail.com>"
@@ -12,5 +12,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0"
+  }
 }

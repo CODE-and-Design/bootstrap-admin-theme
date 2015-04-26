@@ -4,11 +4,22 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+@font-face {
+    font-family: Ubuntu;
+    src: url(../fonts/Ubuntu/Ubuntu-Regular.ttf);
+}
+
+@font-face {
+    font-family: Open-Sans;
+    src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+}
+
 /* Global Styles */
 
 body {
     margin-top: 100px;
     background-color: #222;
+    font-family: 'Ubuntu', 'Open-Sans', sans-serif;
 }
 
 @media(min-width:768px) {
@@ -267,5 +278,9 @@ ul.alert-dropdown {
 }
 
 .cnd-messages-bag h3 {
-    margin: 0px;
+    
+}
+
+.cnd-messages-bag ul {
+    margin-top: 10px;
 }
